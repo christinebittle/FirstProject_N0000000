@@ -12,7 +12,7 @@ namespace FirstProject_N0000000.Controllers
 
         // POST /api/SubTwenty/30 -> 10
         /// <summary>
-        /// 
+        /// Subtracts 20 from the input
         /// </summary>
         /// <param name="id"></param>
         /// <returns></returns>
